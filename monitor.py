@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (PortfolioBot; +https://github.com/your-username/ecommerce-price-monitor)"
+    "User-Agent": "Mozilla/5.0 (testcheck; +https://github.com/dexs/ecommerce-price-monitor)"
 }
 
 def fetch(url: str) -> str:
