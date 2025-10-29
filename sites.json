@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sample Hoodie",
+    "url": "https://example.com/product/hoodie",
+    "price": {
+      "css": ".price",
+      "regex": null
+    },
+    "in_stock": {
+      "css": ".availability",
+      "regex": "In Stock|Available"
+    },
+    "currency": "\u20ac"
+  }
+]
